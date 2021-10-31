@@ -20,7 +20,9 @@ This repo is focused on the Web's Front End code written in React.JS and Typescr
 
 ![Desktop Preview](desktop-preview.jpg)
 
-![Preview](https://github.com/ViniciusLagoGehrke/H.app.y-Web/blob/master/Happy.gif)
+<p align=center>
+  <img width="500px" src="https://github.com/ViniciusLagoGehrke/H.app.y-Web/blob/master/Happy.gif">
+</p>
 
 ## Technologies used
 
